@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonathanwesley
 - 👀 I’m interested in learn hacking and programing
-- 🌱 I’m currently learning python, html5, css3, javascript
+- 🌱 I’m currently learning Data Science and Python for Data Science
 - 💞️ I’m looking to collaborate on cyber security, solving problems, making aplications and game modding
 - 📫 How to reach me : jhonwfdalves@gmail.com
 
