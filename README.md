@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhonathanwesley
-- 👀 I’m interested in learn data analytics and programing
+- 👀 I’m interested in learn data analytics, big data, machine learning and programing 
 - 🌱 I’m currently learning Data Science and Python for Data Science
 - 📫 How to reach me : [linkedin.com/jhonathanwesley/](https://linkedin.com/in/jhonathanwesley/)
 
