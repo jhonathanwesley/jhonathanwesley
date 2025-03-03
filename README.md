@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonathanwesley
 - 👀 I’m interested in learn data analytics and programing
 - 🌱 I’m currently learning Data Science and Python for Data Science
-- 📫 How to reach me : jhonwfdalves@gmail.com
+- 📫 How to reach me : [linkedin.com/jhonathanwesley/](https://linkedin.com/in/jhonathanwesley/)
 
 <!---
 Sr-Stamina/Sr-Stamina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
