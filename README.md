@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonathanwesley
 - 👀 I’m interested in learn data analytics, big data, machine learning and programing 
-- 🌱 I’m currently learning Data Science and Python for Data Science
+- 🌱 I’m currently graduating in Data Science at university of UNESA and developing Python skills for AI, Data Science, Data Engineering and WEB
 - 📫 How to reach me : [linkedin.com/jhonathanwesley/](https://linkedin.com/in/jhonathanwesley/)
 
 <!---
